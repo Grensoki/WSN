@@ -1,6 +1,9 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Kevin Lee, Computer Engineering Student (2027)
+kevinlee22@vt.edu
+
+## Project Proposal
+https://docs.google.com/presentation/d/1CA4b24_dRbM9Imo7ZcEBgbkyO6QeDjnKAx1VD4-ckd0/edit?usp=sharing
 
 ## Mentor
 MENTOR NAME HERE
